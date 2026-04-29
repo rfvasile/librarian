@@ -38,7 +38,7 @@ If you would like to use a cloud model, you don't need to do anything else.
 ### Local environment setup
 Build the local python environment. 
 ```console
-> git clone git@github.com:atomwalk12/calibre-librarian.git librarian
+> git clone git@github.com:rfvasile/calibre-librarian.git librarian
 > cd librarian
 > python -m venv env
 > source env/bin/activate
